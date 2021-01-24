@@ -1,0 +1,27 @@
+- profile:
+  initials: SO
+  name: Sergey Ovcharenko
+  email: s_ovcharenko@outlook.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: London, Canada
+  relocation: false
+  company: Voices
+  for_hire: true
+  focus: React Native
+  focus_url: https://reactnative.dev
+  about: |
+
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - React Native
+  tools:
+    - VSCode
+    - iTerm
+    - Sketch
+  budget:
+    currency: $
+    min: 5
+    max: 50
+    default: 10
