@@ -11,7 +11,7 @@
 
 - name: Handcrafted web
   url: https://handcraftedweb.dev
-  description: Porfolio from agency life. Made as part of learning Gatsby.js. Designed in Sketch.
+  description: Portfolio from agency life. Made as part of learning Gatsby.js. Designed in Sketch.
   status: live
   tags:
     - Gatsby
