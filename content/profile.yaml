@@ -2,7 +2,7 @@
   initials: SO
   name: Sergey Ovcharenko
   email: s_ovcharenko@outlook.com
-  profession: Web Developer
+  profession: Frontend Developer
   image: images/profile.jpg
   location: London, Canada
   relocation: false
@@ -16,7 +16,6 @@
     - Next.js
     - React
     - JavaScript
-    - Chakra UI
   tools:
     - VSCode
     - iTerm
