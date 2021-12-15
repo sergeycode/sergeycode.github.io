@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-      description: "Web Developer from London, Ontario, Canada. React Native apps, Custom WordPress themes.",
+      description: "Frontend Developer from London, Ontario, Canada. React Native apps, Next.js, Custom WordPress themes.",
       locale: "en",
-      title: "Sergey Ovcharenko. Web Developer",
+      title: "Sergey Ovcharenko. Frontend Developer",
     },
     plugins: [
       {

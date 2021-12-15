@@ -6,16 +6,17 @@
   image: images/profile.jpg
   location: London, Canada
   relocation: false
-  company: Voices
-  for_hire: true
-  focus: React Native
-  focus_url: https://reactnative.dev
+  company: Terminal
+  for_hire: false
+  focus: Next.js
+  focus_url: https://nextjs.org
   about: |
 
   skills:
+    - Next.js
+    - React
     - JavaScript
-    - HTML / CSS
-    - React Native
+    - Chakra UI
   tools:
     - VSCode
     - iTerm
