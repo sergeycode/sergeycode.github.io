@@ -1,24 +1,37 @@
-- name: Terminal.io Resource Center
-  url: https://terminal.io/resources
-  description: Microsite made with Next.js, React, Chakra UI, Apollo, headless WordPress with GraphQL
+- name: Terminal.io
+  url: https://terminal.io
+  description: Working at Terminal, I rebuild marketing site from scratch using in Next.js, React, Chakra UI, Apollo, headless WordPress with GraphQL
   status: live
   tags:
-    - Next.js
-    - React
-    - Apollo
-    - GraphQL
-    - JavaScript
-    - WordPress
+      - Next.js
+      - React
+      - Apollo
+      - GraphQL
+      - JavaScript
+      - TypeScript
+      - Headless CMS
   icon: website
-  image: images/terminal-resources.jpg
+  image: images/terminal.jpg
+
+- name: React Native Supabase Starter
+  url: https://github.com/sergeycode/react-native-supabase-nativebase-starter
+  description: React Native Supabase Starter with NativeBase to jumpstart your React Native project. Includes Supabase Auth, Login, Signup, Migrations to check for existing email, Email OTP; Validation with Formik and Yup; Darkmode/Lightmode with AsyncStorage; NativeBase Components; Basic Navigation with BottomTabNavigator and NativeStackNavigator; Blank Welcome Screen; Settings with Signout, ColorMode Switch, Blank Edit Profile Modal Screen
+  status: live
+  tags:
+      - React Native
+      - TypeScript
+      - Supabase
+      - NativeBase
+  icon: website
+  image: images/rn-supabase-starter.jpg
 
 - name: Task-it
   url: https://snack.expo.io/@sergeycode/task-it-app
   description: Todo app made with React Native and Redux. Add tasks, complete tasks, remove tasks, filter tasks. Swipe to remove. Stored in SQLite database. Stack navigation and tabs. Designed in Sketch.
   status: live
   tags:
-    - React Native
-    - JavaScript
-    - Sketch
+      - React Native
+      - JavaScript
+      - Sketch
   icon: website
   image: images/task-it.jpg

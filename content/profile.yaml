@@ -1,6 +1,6 @@
 - profile:
   initials: SO
-  name: Sergey Ovcharenko
+  name: Serhii Ovcharenko
   email: s_ovcharenko@outlook.com
   profession: Frontend Developer
   image: images/profile.jpg
@@ -13,15 +13,15 @@
   about: |
 
   skills:
-    - Next.js
-    - React
-    - JavaScript
+      - Next.js
+      - React
+      - JavaScript
   tools:
-    - VSCode
-    - iTerm
-    - Sketch
+      - VSCode
+      - Framer Motion
+      - Chakra UI
   budget:
-    currency: $
-    min: 5
-    max: 50
-    default: 10
+      currency: $
+      min: 5
+      max: 50
+      default: 10
