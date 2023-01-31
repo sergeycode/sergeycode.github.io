@@ -1,6 +1,6 @@
 - name: Terminal.io
   url: https://terminal.io
-  description: Working at Terminal, I rebuild marketing site from scratch using in Next.js, React, Chakra UI, Apollo, headless WordPress with GraphQL
+  description: Working at Terminal, I rebuild marketing site from scratch with Next.js, React, Chakra UI, Apollo, headless WordPress with GraphQL
   status: live
   tags:
       - Next.js
