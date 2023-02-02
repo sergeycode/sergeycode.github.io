@@ -7,7 +7,7 @@
   location: London, Canada
   relocation: false
   company: Terminal
-  for_hire: false
+  for_hire: true
   focus: Next.js
   focus_url: https://nextjs.org
   about: |
